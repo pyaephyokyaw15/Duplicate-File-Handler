@@ -22,3 +22,8 @@ except:
     print()
     print('Wrong format')
     print()
+
+
+a = {
+    'a': 'hello'
+}
